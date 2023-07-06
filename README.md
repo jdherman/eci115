@@ -4,7 +4,7 @@
 In-class code examples for numerical methods in Python. These examples are for instructional purposes and should not be used in production. Bug reports and PRs welcome.
 
 Contributors:
-Jon Herman
-Katerina Ziotopoulou
-KC Green
-Sumeet Sinha
+- Jon Herman
+- Katerina Ziotopoulou
+- KC Green
+- Sumeet Sinha
