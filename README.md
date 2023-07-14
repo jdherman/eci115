@@ -10,7 +10,8 @@ In-class code examples for numerical methods in Python. These examples are for i
 5. [Integration: Romberg, Adaptive, Gauss](https://colab.research.google.com/github/jdherman/eci115/blob/main/L5.ipynb)
 6. [Linear Systems: Gauss Elimination, LU Decomposition](https://colab.research.google.com/github/jdherman/eci115/blob/main/L6.ipynb)
 7. [Linear Systems: Matrix Inverse, Iterative Methods](https://colab.research.google.com/github/jdherman/eci115/blob/main/L7.ipynb)
-
+8. [Root Finding: Bracketing Methods](https://colab.research.google.com/github/jdherman/eci115/blob/main/L8.ipynb) 
+9. [Root Finding: Open Methods](https://colab.research.google.com/github/jdherman/eci115/blob/main/L9.ipynb) 
 ...
 
 ##### References:
