@@ -1,4 +1,5 @@
-#### UC Davis ECI 115 - Computer Methods in Civil & Environmental Engineering
+#### Numerical Methods in Civil & Environmental Engineering
+##### UC Davis ECI 115
 
 In-class code examples for numerical methods in Python. These examples are for instructional purposes and should not be used in production. Bug reports and PRs welcome.
 
@@ -13,16 +14,12 @@ In-class code examples for numerical methods in Python. These examples are for i
 8. [Root Finding: Bracketing Methods](https://colab.research.google.com/github/jdherman/eci115/blob/main/L08.ipynb) 
 9. [Root Finding: Open Methods](https://colab.research.google.com/github/jdherman/eci115/blob/main/L09.ipynb) 
 10. [Optimization](https://colab.research.google.com/github/jdherman/eci115/blob/main/L10.ipynb) 
-
+11. [ODEs: Runge-Kutta Methods](https://colab.research.google.com/github/jdherman/eci115/blob/main/L11.ipynb) 
+12. [Second-Order ODEs and Systems](https://colab.research.google.com/github/jdherman/eci115/blob/main/L12.ipynb) 
 ...
 
 ##### References:
 - [Chapra and Canale, Numerical Methods for Engineers 8th ed.](https://www.mheducation.com/highered/product/numerical-methods-engineers-chapra-canale/M9781260232073.html)
 - [Kong, Siauw, and Bayen, Python Programming and Numerical Methods](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html )
 - [Primer on Computational Mathematics, Imperial College London](https://primer-computational-mathematics.github.io/book/intro.html)
-
-##### Contributors:
-- Jon Herman (2018-2023)
-- Katerina Ziotopoulou (2019-2020)
-- KC Green (2020)
-- Sumeet Sinha (2020)
+- [Bryan, Differential Equations: A Toolbox for Modeling the World](https://qubeshub.org/community/groups/simiode/textbook)
