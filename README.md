@@ -16,7 +16,9 @@ In-class code examples for numerical methods in Python. These examples are for i
 10. [Optimization](https://colab.research.google.com/github/jdherman/eci115/blob/main/L10.ipynb) 
 11. [ODEs: Runge-Kutta Methods](https://colab.research.google.com/github/jdherman/eci115/blob/main/L11.ipynb) 
 12. [Second-Order ODEs and Systems](https://colab.research.google.com/github/jdherman/eci115/blob/main/L12.ipynb) 
-13. [Uncertainty Analysis](https://colab.research.google.com/github/jdherman/eci115/blob/main/L13.ipynb) 
+13. [Uncertainty Analysis](https://colab.research.google.com/github/jdherman/eci115/blob/main/L13.ipynb)
+14. [Parameter Estimation](https://colab.research.google.com/github/jdherman/eci115/blob/main/L14.ipynb)
+15. [Sensitivity Analysis](https://colab.research.google.com/github/jdherman/eci115/blob/main/L15.ipynb)
 
 
 
