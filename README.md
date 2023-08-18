@@ -19,6 +19,10 @@ In-class code examples for numerical methods in Python. These examples are for i
 13. [Uncertainty Analysis](https://colab.research.google.com/github/jdherman/eci115/blob/main/L13.ipynb)
 14. [Parameter Estimation](https://colab.research.google.com/github/jdherman/eci115/blob/main/L14.ipynb)
 15. [Sensitivity Analysis](https://colab.research.google.com/github/jdherman/eci115/blob/main/L15.ipynb)
+16. [Boundary Value and Eigenvalue Problems](https://colab.research.google.com/github/jdherman/eci115/blob/main/L16.ipynb)
+17. [PDEs: Laplace Equation](https://colab.research.google.com/github/jdherman/eci115/blob/main/L17.ipynb)
+18. [PDEs: Diffusion Equation](https://colab.research.google.com/github/jdherman/eci115/blob/main/L18.ipynb)
+
 
 
 
