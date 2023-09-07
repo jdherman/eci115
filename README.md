@@ -30,5 +30,4 @@ In-class code examples for numerical methods in Python. These examples are for i
 ##### References:
 - [Chapra and Canale, Numerical Methods for Engineers 8th ed.](https://www.mheducation.com/highered/product/numerical-methods-engineers-chapra-canale/M9781260232073.html)
 - [Kong, Siauw, and Bayen, Python Programming and Numerical Methods](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html )
-- [Primer on Computational Mathematics, Imperial College London](https://primer-computational-mathematics.github.io/book/intro.html)
 - [Bryan, Differential Equations: A Toolbox for Modeling the World](https://qubeshub.org/community/groups/simiode/textbook)
