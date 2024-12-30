@@ -1,7 +1,7 @@
 #### Numerical Methods in Civil & Environmental Engineering
 ##### UC Davis ECI 115
 
-In-class code examples for numerical methods in Python. These examples are for instructional purposes and should not be used in production. Bug reports and PRs welcome.
+In-class code examples for numerical methods in Python. These examples are for teaching and should not be used in production. Bug reports and PRs welcome.
 
 ##### Links to Google Colab:
 1. [Intro to Scientific Python](https://colab.research.google.com/github/jdherman/eci115/blob/main/L01.ipynb)
